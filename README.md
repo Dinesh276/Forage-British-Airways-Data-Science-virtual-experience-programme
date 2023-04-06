@@ -6,7 +6,7 @@ As a data scientist at BA, it will be our job to apply your analytical skills to
 Understanding a customer's feelings, needs, and feedback is crucial for any business, including BA.
 
 
-##Task1 : Web scraping to gain company insights
+## Task1 : Web scraping to gain company insights
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
 The first thing to do will be to scrape review data from the web. For this, we should use a website called Skytrax.
 The team leader wants us to focus on reviews specifically about the airline itself. You should collect as much data as you can in order to improve the output of your analysis.
