@@ -13,7 +13,7 @@ The team leader wants us to focus on reviews specifically about the airline itse
 Once you have your dataset, you need to prepare it. We will need to perform data cleaning in order to prepare the data for analysis.Perform our own analysis to uncover some insights. Topic modelling, sentiment analysis or wordclouds to provide some insight into the content of the reviews.
 Summarise our findings within a single PowerPoint slide, so that it can present. WE should create visualisations and metrics to include within this slide, as well as clear and concise explanations in order to quickly provide the key points from our analysis.
 
-![Task1 Presntation](Task 2/Presentation Template - Task 2.pptx)
+![Task1 Presntation]([Task 2/Presentation Template - Task 2.pptx](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/raw/main/Task%202/Presentation%20Template%20-%20Task%202.pptx))
 
 ![Word Cloud](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/blob/main/Task1/word_cloud1.png?raw=true)
                  ![Review Sentiments Percentage](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/blob/main/Task1/Review_Sentiment_percentage.PNG?raw=true)
