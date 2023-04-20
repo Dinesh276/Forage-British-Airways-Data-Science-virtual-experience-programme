@@ -13,7 +13,7 @@ The team leader wants us to focus on reviews specifically about the airline itse
 Once you have your dataset, you need to prepare it. We will need to perform data cleaning in order to prepare the data for analysis.Perform our own analysis to uncover some insights. Topic modelling, sentiment analysis or wordclouds to provide some insight into the content of the reviews.
 Summarise our findings within a single PowerPoint slide, so that it can present. WE should create visualisations and metrics to include within this slide, as well as clear and concise explanations in order to quickly provide the key points from our analysis.
 ![Word Cloud](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/blob/main/Task1/word_cloud1.png?raw=true)
-![Review Sentiments Percentage](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/blob/main/Task1/Review_Sentiment_percentage.PNG?raw=true)
+                 ![Review Sentiments Percentage](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/blob/main/Task1/Review_Sentiment_percentage.PNG?raw=true)
 ## Task2 : Predicting customer buying behaviour
 Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. Today, if you’re hoping that a customer purchases your flights or holidays as they come into the airport, you’ve already lost! Being reactive in this situation is not ideal; airlines must be proactive in order to acquire customers before they embark on their holiday.
 
@@ -23,6 +23,4 @@ When data is ready for modelling, train a machine learning model to be able to p
 *Evaluate model and present findings
 After training model, we should evaluate how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, we created a visualisation to interpret how each variable contributed to the model.
 ![Feature Importance In Balanced Dataset](![image](https://user-images.githubusercontent.com/65611232/233256396-c8573cc8-e2e4-49fd-8c48-3a63aee5e4e7.png)
-![Confusion Matrix for Balanced Dataset](![image](https://user-images.githubusercontent.com/65611232/233256439-48ec1c06-f5f7-4901-bbba-05c4462cb39b.png)
-)
 
