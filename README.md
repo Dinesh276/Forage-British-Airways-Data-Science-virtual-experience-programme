@@ -13,7 +13,7 @@ The team leader wants us to focus on reviews specifically about the airline itse
 Once you have your dataset, you need to prepare it. We will need to perform data cleaning in order to prepare the data for analysis.Perform our own analysis to uncover some insights. Topic modelling, sentiment analysis or wordclouds to provide some insight into the content of the reviews.
 Summarise our findings within a single PowerPoint slide, so that it can present. WE should create visualisations and metrics to include within this slide, as well as clear and concise explanations in order to quickly provide the key points from our analysis.
 
-([Task 2/Presentation Template - Task 2.pptx](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/raw/main/Task%202/Presentation%20Template%20-%20Task%202.pptx))
+![Task1 Presentation](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/raw/main/Task1/Presentation%20Template%20-%20Task%201.pptx)
 
 ![Word Cloud](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/blob/main/Task1/word_cloud1.png?raw=true)
                  ![Review Sentiments Percentage](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/blob/main/Task1/Review_Sentiment_percentage.PNG?raw=true)
@@ -25,5 +25,8 @@ This task involves building a high quality predictive to predict the successful 
 When data is ready for modelling, train a machine learning model to be able to predict the target outcome, which is a customer making a booking. For this task, I have used an algorithm that easily allows you to output information about how each variable within the model contributes to its predictive power. RandomForest is very good for this purpose.
 *Evaluate model and present findings
 After training model, we should evaluate how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, we created a visualisation to interpret how each variable contributed to the model.
+([Task 2 Presentation](https://github.com/Dinesh276/Forage-British-Airways-Data-Science-virtual-experience-programme/raw/main/Task%202/Presentation%20Template%20-%20Task%202.pptx))
+
+
 ![Feature Importance In Balanced Dataset](![image](https://user-images.githubusercontent.com/65611232/233256396-c8573cc8-e2e4-49fd-8c48-3a63aee5e4e7.png)
 
